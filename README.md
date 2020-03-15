@@ -1,14 +1,14 @@
 # Mirsh.Payment
 微信支付v3 API
 
-##一、基本信息
+## 一、基本信息
 地址：https://github.com/gitmirsh/Mirsh.Payment  
 代码搭建环境：  
 1.win10   
 2.vs2012(.net framework4)  
 3.git  
 
-##二、解决方案
+## 二、解决方案
 包含两个项目  
 1.Mirsh.Payment               --WXPay API v2/v3底层实现  
 2.Mirsh.Payment.UnitTest      --测试单元，用于功能测试  
@@ -18,7 +18,7 @@
 /lib/BouncyCastle.Crypto.dll   -- 解密数据使用  
 /lib/Newtonsoft.Json.dll       --json序列化与反序列化  
   
-##三、使用示例
+## 三、使用示例
 ```csharp
 var api = new WXV3Api()
 {
