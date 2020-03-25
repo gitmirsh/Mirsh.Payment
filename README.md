@@ -1,5 +1,4 @@
-# Mirsh.Payment
-微信支付v3 API
+# Mirsh.Payment---微信支付v3 API
 
 ## 一、基本信息
 地址：https://github.com/gitmirsh/Mirsh.Payment  
